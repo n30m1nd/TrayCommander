@@ -1,5 +1,5 @@
 # TrayCommander
-Test-program that adds an icon to the system tray with a context menu to launch commands.
+Test-program that adds an icon to the system tray with a context menu to launch user defined commands.
 
 Requirements:
 * Win32 compatible OS
