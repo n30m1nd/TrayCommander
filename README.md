@@ -6,6 +6,7 @@ Requirements:
 
 Usage:
 * Just run the application
+* [If]First time you run it, will ask for which commands to add.
 * To run a command
   * Right click on the little blue ball icon
   * Choose the command to run
